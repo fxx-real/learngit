@@ -1,5 +1,2 @@
-hello my friends
-git is a version control system
-new line
-4th line
-make many changes
+hello, my friends, 
+It's my first serious practice of using Git.
